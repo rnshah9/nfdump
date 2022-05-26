@@ -1,5 +1,5 @@
 project: rnshah9/nfdump
-target: nfdump
+target: nfanon
 
 cmds:
   - cmd: /repo/bin/.libs/nfanon -r @@ -K aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
