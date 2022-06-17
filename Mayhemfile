@@ -1,4 +1,4 @@
-project: rnshah9/nfdump
+project: nfdump
 target: nfanon
 
 cmds:
