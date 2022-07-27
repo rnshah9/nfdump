@@ -2,4 +2,4 @@ project: nfdump
 target: nfanon
 
 cmds:
-  - cmd: /repo/bin/.libs/nfanon -r @@ -K aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  - cmd: /install/bin/nfanon -r @@ -K aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
